@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define NUM_PASOS
+#define NUM_PASOS 1000
 
 void message(){
   printf("Interesante,estoy aportando al codigo");
