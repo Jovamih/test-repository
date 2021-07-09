@@ -5,6 +5,9 @@ void message(){
   printf("Interesante,estoy aportando al codigo");
 
 }
+void mostrar_vacas(){
+  printf("Mostrar numero vacas");
+}
 int main(int argc, char ** argv){
   int u=0;
   for(u=0;u<NUM_PASOS;u++){
