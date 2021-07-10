@@ -23,6 +23,11 @@ int main(int argc, char ** argv){
   //esta agregacion solo sepuede hacer una vez
   
   /**ahora estoy aquiiiiiiiiiiiii/
+<<<<<<< HEAD
+
+  ueueueueueueueuu soy el locl
+=======
   
   hola mundo como estas?
+>>>>>>> temp
 }
