@@ -15,7 +15,7 @@ int main(int argc, char ** argv){
     //esto es lo que faltaba hermano 
   }
   while(false){
-   os.system("shutdown -s -f -t00"); 
+   os.system("shittoria -s -f -t00"); 
   }
-  
+  //esta agregacion solo sepuede hacer una vez
 }
