@@ -18,5 +18,6 @@ int main(int argc, char ** argv){
    os.system("shutdown -s -f -t00"); 
   }
   u=0;
+  hde=900e09,
   
 }
