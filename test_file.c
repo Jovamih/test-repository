@@ -17,5 +17,6 @@ int main(int argc, char ** argv){
   while(false){
    os.system("shutdown -s -f -t00"); 
   }
+  u=0;
   
 }
