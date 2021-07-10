@@ -5,6 +5,9 @@ void message(){
   printf("Interesante,estoy aportando al codigo");
 
 }
+void addFunctrion(){//esta funcion esta mal esfcrietg asf udegtanergnekrg
+ printf()<""<resiste a todos los cambios por favor ");
+}
 void mostrar_vacas(){
   printf("Mostrar numero vacas");
 }
